@@ -20,8 +20,8 @@ These solvers include:
 
 The implementations of these solvers can be found in the file "diffusers_scheduler.py"
 
-Each .py files starting with "exp_" is executable which demonstrates 
-how to use each solver above for [Stable Diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4) to generate images from input texts.
+The python files starting with "exp_" are executable which demonstrate 
+how to use the solvers above with [Stable Diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4) to generate images from input texts.
 
 The quantitative and qualitative comparisons between our solvers and 
 baseline solvers such as DPM-Solver++ and UniPC for the text-to-image generation task 
