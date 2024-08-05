@@ -4,7 +4,7 @@
 This repository contains the official implementation for experiments with [Stable Diffusion](https://arxiv.org/abs/2112.10752) in our paper:
 > [**Variational Flow Models: Flowing in Your Style**](https://arxiv.org/abs/2402.02977)
 >
-> Do et al.
+> Do et al., 2024
 
 
 ## Required libraries
