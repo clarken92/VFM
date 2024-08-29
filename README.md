@@ -15,8 +15,8 @@ In this repository, we implement various numerical solvers on straight constant-
 These solvers include:
 - Euler solver (Euler)
 - Runge-Kutta solvers (Heun, ExplicitMidpoint, ClassicKutta3)
-- Adam-Bashforth solvers (AB2, AB3)
-- Adam-Bashforth solvers with Adam-Mouton correctors (AB2C, AB3C)
+- Adams-Bashforth solvers (AB2, AB3)
+- Adams-Bashforth solvers with Adams-Moulton correctors (AB2C, AB3C)
 
 The implementations of these solvers can be found in the file "diffusers_scheduler.py"
 
